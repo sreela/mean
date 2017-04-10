@@ -6,8 +6,8 @@ To run:
 4. > mongod
 5. In another cmd: C:/Program Files/MongoDB/Server/3.x/bin to open the mongo shell
 6. > mongo
-7. (Git bash) In the Front-end folder run gulp, and then gulp serve
-7. (Git bash) In the Back-end folder run node server.js
+7. (Git bash) In the Front-end folder run `gulp`, and then `gulp serve`
+7. (Git bash) In the Back-end folder run `node server.js`
 
 
 
